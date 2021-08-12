@@ -1,4 +1,8 @@
-# NgVideoGameDb
+# video-games-db-angular
+
+This is a video game database app that is built with Angular and using an API that allows a user to search for a specific game, or scroll for a category like added or released that allows them to look at a videogame, the game's details, screenshots, trailers, and a link to metacritic to see reviews.
+
+You can check it out here: https://video-games-db-angular.vercel.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
 
